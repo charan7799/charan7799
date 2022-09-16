@@ -41,4 +41,4 @@ I am an aspiring Data Scientist <img src="https://media.giphy.com/media/WUlplcMp
 ---
 
 ### :fire: My Stats :
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charan7799&layout=compact&theme=vision-friendly-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charan7799&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
