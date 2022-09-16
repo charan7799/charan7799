@@ -16,6 +16,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
 ---
 
 ### :man_technologist: About Me :
@@ -27,6 +28,7 @@ I am an aspiring Data Scientist <img src="https://media.giphy.com/media/WUlplcMp
 - :zap: In my free time, I solve problems on codechef and read data science articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-charan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/charan-charupalli/)
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -38,6 +40,7 @@ I am an aspiring Data Scientist <img src="https://media.giphy.com/media/WUlplcMp
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp; -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
 ---
 
 ### :fire: My Stats :
