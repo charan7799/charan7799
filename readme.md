@@ -24,6 +24,17 @@ I am an aspiring Data Scientist <img src="https://media.giphy.com/media/WUlplcMp
 
 - :seedling: Exploring my curiosity on real world data science problems.
 
-- :zap: In my free time, I solve problems on leetcode and read data science articles.
+- :zap: In my free time, I solve problems on codechef and read data science articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-charan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/charan-charupalli/)
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="pytorch" alt="pytorch" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp; -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
