@@ -21,7 +21,7 @@
 ---
 
 ### :man_technologist: About Me :
-Data Science aspirant <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+Machine Learning Engineer at a fintech company, Data Science Enthusiast, M.tech graduate in Computer Science and Data Analytics from NIT AP. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :telescope: I’m a 2022 M.Tech gradute in Computer Science and Data Analytics from NIT Andhra Pradesh.
 
 - :seedling: Exploring my curiosity on real world data science problems.
